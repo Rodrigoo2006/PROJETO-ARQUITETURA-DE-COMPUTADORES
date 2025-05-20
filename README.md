@@ -24,9 +24,7 @@ Este projeto tem como foco analisar a infraestrutura atual da organização, ide
 
 🔍 Levantamento do sistema atual da empresa
 🆚 Vantagens e Desvantagens
-🏗️ Modernização da infraestrutura
-🖥️ Aquisição de novo servidor
-🔄 Migração híbrida para novo sistema
+✔️ Soluções para o problema,Caso tenha.
 🗓️ Cronograma de implementação
 
 🧠 MAPA MENTAL 
