@@ -22,10 +22,10 @@ Elaborar um projeto de consultoria para modernização ou aquisição de um novo
 
 Este projeto tem como foco analisar a infraestrutura atual da organização, identificar possíveis gargalos ou limitações, e sugerir melhorias tecnológicas que atendam à demanda atual e futura da empresa. A proposta inclui:
 
-🔍 Levantamento de requisitos
-💰 Análise de custo-benefício
-⚖️ Comparação entre soluções (upgrade vs. novo servidor)
-🖥️ Recomendação de especificações técnicas
+🔍 Levantamento do sistema atual da empresa
+🏗️ Modernização da infraestrutura
+🖥️ Aquisição de novo servidor
+🔄 Migração híbrida para novo sistema
 🗓️ Cronograma de implementação
 
 🧠 MAPA MENTAL 
@@ -34,6 +34,9 @@ Este projeto tem como foco analisar a infraestrutura atual da organização, ide
 ☁️ QUIZ 
 ➡️
 
+🎙️PODCAST
+➡️
+
 ✅ RESULTADO ESPERADO
 
-Apresentar um plano de consultoria completo, com argumentos técnicos e financeiros que justifiquem a escolha da modernização ou aquisição do novo servidor, proporcionando mais eficiência, escalabilidade e segurança à infraestrutura de TI da organização.
+Apresentar um plano de consultoria completo, com argumentos técnicos que justifiquem a escolha da modernização ou aquisição do novo servidor, proporcionando mais eficiência, escalabilidade e segurança à infraestrutura de TI da organização.
