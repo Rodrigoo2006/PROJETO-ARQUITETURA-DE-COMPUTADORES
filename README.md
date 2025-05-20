@@ -23,6 +23,7 @@ Elaborar um projeto de consultoria para modernização ou aquisição de um novo
 Este projeto tem como foco analisar a infraestrutura atual da organização, identificar possíveis gargalos ou limitações, e sugerir melhorias tecnológicas que atendam à demanda atual e futura da empresa. A proposta inclui:
 
 🔍 Levantamento do sistema atual da empresa
+🆚 Vantagens e Desvantagens
 🏗️ Modernização da infraestrutura
 🖥️ Aquisição de novo servidor
 🔄 Migração híbrida para novo sistema
