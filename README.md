@@ -9,7 +9,7 @@ Rodrigo Santos Araújo
 Github:https://github.com/Rodrigoo2006
 
 Vinicius dos Santos Reis
-Github:
+Github:https://github.com/viniciusdossantosss
 
 Erik Matos Sacramento
 Github:
