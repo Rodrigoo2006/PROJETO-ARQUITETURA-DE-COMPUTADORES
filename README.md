@@ -31,7 +31,7 @@ Este projeto tem como foco analisar a infraestrutura atual da organização, ide
 ➡️https://www.edrawmind.com/app/editor/sREepB4CRJTHVX3WE1NS2nFkbltNsx9W?ivt=2jnNwLcBjrg9wFBqahlySfN0RwuztXyd017&page=40806484279476
 
 ☁️ QUIZ 
-➡️
+➡️https://kahoot.it/challenge/0712582?challenge-id=61d36bc7-02c7-4ae1-94fd-480db0830e78_1749125254996
 
 🎙️PODCAST
 ➡️
