@@ -1,4 +1,4 @@
-💻 Projeto de Arquitetura de Computadores 
+💻 Projeto de Consultoria
 
 👥 COMPONENTES
 
