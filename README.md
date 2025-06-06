@@ -34,7 +34,7 @@ Este projeto tem como foco analisar a infraestrutura atual da organização, ide
 ➡️https://kahoot.it/challenge/0712582?challenge-id=61d36bc7-02c7-4ae1-94fd-480db0830e78_1749125254996
 
 🎙️PODCAST
-➡️
+➡️https://open.spotify.com/episode/6lkZ5gp8AppkplMa90vGHS?si=3_n_Dnk4SJmgu2sgRxDTcQ
 
 ✅ RESULTADO ESPERADO
 
